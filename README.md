@@ -6,7 +6,7 @@
 
 🔐 **Flash USDT** is a dynamic, secure, and visually stunning platform for managing **Flash USDT Balances** and **Real USDT Balances** on the **TRC20** network. With real-time CoinGecko price updates and integration with top exchanges like **Binance**, **Coinbase**, and **Kraken**, it’s your gateway to fast, ethical USDT transactions! 🚀
 
-🌐 **Website**: [Flash USDT](https://flash-crypto.netlify.app)
+🌐 **Website**: [Flash USDT](https://flash-cryptov2.netlify.app)
 
 ---
 
