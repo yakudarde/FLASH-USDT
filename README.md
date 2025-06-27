@@ -148,7 +148,7 @@ Help improve Flash USDT’s features and security! 🌟
 Explore Flash USDT’s vibrant interface:
 
 1. **Flash USDT Logo**  
-   ![Flash USDT Logo](logos/tether-usdt-logo.png)
+   ![Flash USDT Logo](logos/flash-crypto-logo.png)
 2. **Homepage**: USDT prices and TRC20 details  
    ![Homepage](logos/homepage.png)
 3. **Sign-Up Page**: Firebase Authentication  
