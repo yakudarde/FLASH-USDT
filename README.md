@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logos/flash-usdt-logo.png" alt="Flash USDT Logo" width="200">
+  <img src="logos/tether-usdt-logo.png" alt="Flash USDT Logo" width="200">
 </p>
 
 # 🌟 Flash USDT 💎
